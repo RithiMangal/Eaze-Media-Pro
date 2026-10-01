@@ -1,5 +1,14 @@
 # Eaze Media Pro — Read Me
 
+![Linux](https://img.shields.io/badge/platform-Linux-blue?style=for-the-badge&logo=linux)
+![Rust](https://img.shields.io/badge/built_with-Rust-orange?style=for-the-badge&logo=rust)
+![License](https://img.shields.io/badge/license-GPL--3.0-green?style=for-the-badge)
+![AppImage](https://img.shields.io/badge/distro-AppImage-red?style=for-the-badge)
+
+• Strategic Recommendation: Frames Lubuntu as the primary native development environment for guaranteed stability.
+• Technical Breakdown: Bullet points highlighting the streamlined configuration, low resource footprint, and its ability to revive older hardware with zero lag.
+• Veteran Insight: Concludes with an engaging nod to the fun of managing multiple Linux environments.
+
 A short, plain-English guide to what this program is, how it works, and what it can do.
 
 ---
